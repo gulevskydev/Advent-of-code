@@ -25,5 +25,4 @@ function second(s) {
             }
         }
     }
-    return acc
 }
