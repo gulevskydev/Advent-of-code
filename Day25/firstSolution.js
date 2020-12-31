@@ -1,6 +1,7 @@
 function firstSolution() {
     let val = 1;
     let count = 0;
+    const [card, door] = input.split('\n').map((el) => +el);
     while (val !== card) {
         val *= 7;
         val %= 20201227;
