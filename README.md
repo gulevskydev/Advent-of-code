@@ -4,5 +4,5 @@
 <p align="center"><b>My solutions for the Advent of Code 2020 in Javascript</b></p>
 <hr>
 
-<p align="center"><img height="300" width="auto" src="./adventofcode.jpg" /></p>
+<p align="center"><img height="600" width="auto" src="./adventofcode.jpg" /></p>
 
