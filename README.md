@@ -1,8 +1,6 @@
 # :christmas_tree: Advent-of-Code-2020
 
 [![advent-of-code](https://img.shields.io/badge/Advent_of_Code-2020-F80046.svg?style=flat)](https://adventofcode.com)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <p align="center"><b>My solutions for the Advent of Code 2020 in Javascript</b></p>
 
