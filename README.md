@@ -2,8 +2,6 @@
 
 [![advent-of-code](https://img.shields.io/badge/Advent_of_Code-2020-F80046.svg?style=flat)](https://adventofcode.com)
 
-<p align="center"><b>My solutions for the Advent of Code 2020 in Javascript</b></p>
-
 ## Solutions
 
 1. [Day 1](Day01) ⭐️⭐️
